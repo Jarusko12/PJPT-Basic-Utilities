@@ -2,7 +2,7 @@
   <img src="pjptlogobasic.png" alt="Project Banner" width="100%">
 </p>
 
-A mod that I made for Project: Playtime, which simply adds some small useful things that are always nice to have, without anything that changes the game or gameplay significantly, this mod is basically my [Balanced Utilities](https://github.com/Jarusko12/PJPT-Balanced-Utilities) mod but without gameplay changes. Post suggestions/feedback/bug reports in Issues!
+A mod that I made for Project: Playtime (Phase 2 Version 2.0.3), which simply adds some small useful things that are always nice to have, without anything that changes the game or gameplay significantly, this mod is basically my [Balanced Utilities](https://github.com/Jarusko12/PJPT-Balanced-Utilities) mod but without gameplay changes. Post suggestions/feedback/bug reports in Issues!
 
 ## Explanation:
 If there's a ◇ next to a feature, it means it will not work for other players at all and is purely client side.
