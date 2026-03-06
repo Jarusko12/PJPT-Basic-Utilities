@@ -51,3 +51,22 @@ Things after a | are the reasons/descriptions for the change.
  ⌊ KillDCs             (0 Tickets >> 50K Tickets)
  
  ⌊ Toy Parts Remaining (0 Tickets >> 500K Tickets)
+
+ ## How To Use:
+**Mod Setup Files Link:** [Click Me!](https://files.catbox.moe/xq81v0.zip) | If this ever stops working, please let me know by creating an issue!
+- Extract mod setup files
+- Open mod unlocker folder
+- Open application inisde and wait for it to update & stuff
+- Open your Project: Playtime game files
+- Navigate to Playtime_Multiplayer > Binaries > Win64
+- Copy that file path
+- Go to the mod unlocker and press the open button
+- Paste in the file path and press select folder
+- Click the patch button and confirm any popups
+- Open the "the three files" folder in the mod setup files
+- Open your Project: Playtime game files but without navigating anywhere
+- Drag over the three files from the folder into your game files and click replace files in destination
+- Extract my actual mod, open the folder inside, and you should see folders like: Gameplay, Interface, etc.
+- Open your Project: Playtime files and navigate to Playtime_Multiplayer > Content
+- Drag over the mod files (Gameplay, Interface, etc.) into that Content folder
+- If you are modding phase 3 (Don't use my mod on phase 3, it will not work) then also delete the EasyAnticheat folder
