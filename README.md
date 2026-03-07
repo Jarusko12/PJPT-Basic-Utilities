@@ -14,7 +14,13 @@ If there's a ◆ next to a feature, it means it will only work for the player us
 Things after a | are the reasons/descriptions for the change.
 
 ## Current Features:
-◆ **Higher Chat Limit (56 Characters >> 512 Characters) | This is to remove any moments where you have to use multiple messages to type something, the default character limit sucks.**
+◆ **Better Chat                                         | Makes the chat overall better, but its not perfect.**
+
+ ⌊ Higher Character Limit (56 Characters >> 512 Characters)
+
+ ⌊ Player Chat Color (Blue >> Violet)
+
+ ⌊ Chat Font Size (12 >> 10)
 
 ◇ **Re-Added Quick Play Button                          | Adds the quick play button from phase 1 back into phase 2, because why not? It works fine, and may be useful sometimes.**
 
