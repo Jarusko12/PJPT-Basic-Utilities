@@ -28,35 +28,33 @@ Things after a | are the reasons/descriptions for the change.
 
 ◆ **Unlock All Cosmetics                                | This mod will also give you all cosmetics so your character can look cool! This does not include emotes, you will have to use a cosmetic mod on phase 3, equip emotes there, then use them in phase 2.**
 
-◈ **A Lot Of Tickets                                    | You will get around a million tickets for a lot of actions that normally give a very little amount!**
+◈ **A Lot Of Tickets                                    | You will get a lot more tickets for a lot of actions that normally give a very little amount!**
  
- ⌊ Puzzles Completed   (20 Tickets >> 2M Tickets)
+ ⌊ Puzzles Completed   (20 Tickets >> 20K Tickets)
  
- ⌊ Players Revived     (10 Tickets >> 1M Tickets)
+ ⌊ Players Revived     (10 Tickets >> 10K Tickets)
  
- ⌊ Players Extracted   (30 Tickets >> 3M Tickets)
+ ⌊ Players Extracted   (30 Tickets >> 30K Tickets)
  
- ⌊ Toy Parts Carried   (0 Tickets >> 50K Tickets)
- 
- ⌊ Toy Parts Deposited (5 Tickets >> 500K Tickets)
+ ⌊ Toy Parts Deposited (5 Tickets >> 5K Tickets)
  
  ⌊ Time Survived       (0 Tickets >> 10K Tickets)
  
- ⌊ Escaped On Train    (0 Tickets >> 5M Tickets)
+ ⌊ Escaped On Train    (0 Tickets >> 50K Tickets)
  
- ⌊ Skillful Extraction (0 Tickets >> 30M Tickets)
+ ⌊ Skillful Extraction (0 Tickets >> 300K Tickets)
  
- ⌊ Adept Extraction    (0 Tickets >> 20M Tickets)
+ ⌊ Adept Extraction    (0 Tickets >> 200K Tickets)
  
- ⌊ Near Escape         (0 Tickets >> 10M Tickets)
+ ⌊ Near Escape         (0 Tickets >> 100K Tickets)
  
- ⌊ Players Downed      (20 Tickets >> 2.5M Tickets)
+ ⌊ Players Downed      (20 Tickets >> 25K Tickets)
  
- ⌊ Players Deposited   (30 Tickets >> 3M Tickets)
+ ⌊ Players Deposited   (30 Tickets >> 30K Tickets)
  
  ⌊ KillDCs             (0 Tickets >> 50K Tickets)
  
- ⌊ Toy Parts Remaining (0 Tickets >> 500K Tickets)
+ ⌊ Toy Parts Remaining (0 Tickets >> 5K Tickets)
 
  ## How To Use:
 **Mod Setup Files Link:** [Click Me!](https://files.catbox.moe/xq81v0.zip) | If this ever stops working, please let me know by creating an issue!
