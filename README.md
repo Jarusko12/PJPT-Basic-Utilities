@@ -48,9 +48,9 @@ Things after a | are the reasons/descriptions for the change.
  
  ⌊ Near Escape         (0 Tickets >> 100K Tickets)
  
- ⌊ Players Downed      (20 Tickets >> 25K Tickets)
+ ⌊ Players Downed      (10 Tickets >> 10K Tickets)
  
- ⌊ Players Deposited   (30 Tickets >> 30K Tickets)
+ ⌊ Players Deposited   (20 Tickets >> 20K Tickets)
  
  ⌊ KillDCs             (0 Tickets >> 50K Tickets)
  
