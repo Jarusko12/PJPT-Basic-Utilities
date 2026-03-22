@@ -56,7 +56,7 @@ Things after a | are the reasons/descriptions for the change.
  
  ⌊ Toy Parts Remaining (0 Tickets >> 5K Tickets)
 
- ## How To Use:
+## How To Use:
 **Mod Setup Files Link:** [Click Me!](https://files.catbox.moe/xq81v0.zip) | If this ever stops working, please let me know by creating an issue!
 - Extract mod setup files
 - Open mod unlocker folder
@@ -70,6 +70,10 @@ Things after a | are the reasons/descriptions for the change.
 - Open the "the three files" folder in the mod setup files
 - Open your Project: Playtime game files but without navigating anywhere
 - Drag over the three files from the folder into your game files and click replace files in destination
+- Extract my actual mod, open the folder inside, and you should see folders like: Gameplay, Interface, etc.
+- Open your Project: Playtime files and navigate to Playtime_Multiplayer > Content
+- Drag over the mod files (Gameplay, Interface, etc.) into that Content folder
+- If you are modding phase 3 (Don't use this mod on phase 3, it will not work, instead use my [Phased Utilities](https://github.com/Jarusko12/PJPT-Phased-Utilities) mod for phase 3) then also delete the EasyAnticheat folder inside of the game files (without navigating anywhere)
 
 ## How To Update:
 - Get the new version you want to use
@@ -79,7 +83,3 @@ Things after a | are the reasons/descriptions for the change.
 - There is two methods of doing this: Risky, But Keep Other Mods, and Safe, But Remove Other Mods
   - **[SAFE, BUT REMOVE OTHER MODS]** In the Content folder, delete all of the old mod files (Do not delete IllusoryContent, Movies, Paks) and put all of these files (Gameplay, Interface, etc.) into the Content folder you opened earlier
   - **[RISKY, BUT KEEP OTHER MODS]** In the Content folder, put all of these files (Gameplay, Interface, etc.) into the Content folder you opened earlier, and press replace files in destination
-- Extract my actual mod, open the folder inside, and you should see folders like: Gameplay, Interface, etc.
-- Open your Project: Playtime files and navigate to Playtime_Multiplayer > Content
-- Drag over the mod files (Gameplay, Interface, etc.) into that Content folder
-- If you are modding phase 3 (Don't use my mod on phase 3, it will not work) then also delete the EasyAnticheat folder
