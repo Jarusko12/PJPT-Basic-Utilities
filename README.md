@@ -57,7 +57,7 @@ Things after a | are the reasons/descriptions for the change.
  ⌊ Toy Parts Remaining (0 Tickets >> 1K Tickets)
 
 ## How To Use:
-**Mod Setup Files Link:** [Click Me!](https://files.catbox.moe/xq81v0.zip) | If this ever stops working, please let me know by creating an issue!
+- Download the mod setup files from this Github
 - Extract mod setup files
 - Open mod unlocker folder
 - Open application inisde and wait for it to update & stuff
